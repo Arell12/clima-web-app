@@ -20,14 +20,20 @@ Aplicación web para consultar el clima actual y el pronóstico extendido de cua
 ## 📁 Estructura del proyecto
 
 mi-proyecto-clima/
-├── frontend/          # Código completo del cliente web
-├── backend/           # Backend para interactuar con la api
-├── .gitignore
-└── README.md       
+-- frontend/          # Código completo del cliente web
+-- backend/           # Backend para interactuar con la api
+-- .gitignore
+-- README.md       
+
 ---
+
 🌐 Funcionalidades
+
 ---
+
 📦 Deploy
+
 ---
+
 🙋‍♂️ Autor
 Carlos Armando Arellano Cruz
